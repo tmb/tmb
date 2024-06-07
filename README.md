@@ -17,5 +17,9 @@ Here are some ideas to get you started:
 
 ```math
 x \href{why-equal.html}{=} y^2 + 1
+
+(x+1)^2 = \class{hidden}{(x+1)(x+1)}
+
+(x+1)^2 = \cssId{step1}{\style{visibility:hidden}{(x+1)(x+1)}}
 ```
 
