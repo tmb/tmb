@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ```math
+\require{html}
+
 x \href{why-equal.html}{=} y^2 + 1
 
 (x+1)^2 = \class{hidden}{(x+1)(x+1)}
